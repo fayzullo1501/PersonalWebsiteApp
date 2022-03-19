@@ -25,7 +25,7 @@ section {
 }
 body.active {
   --text-color: #fff;
-  --bg-color: #0f0c27;
+  --bg-color: #20222A;
 }
 body {
   background: var(--bg-color);
@@ -231,17 +231,17 @@ span {
 .software-bar {
 width: 80%
 }
-.html-bar {
+.design {
   width: 70%;
 }
-.css-bar {
-  width: 70%;
+.mobile {
+  width: 60%;
 }
-.js-bar {
+.web {
   width: 50%;
 }
-.react-bar {
-  width: 50%;
+.cybersecurity {
+  width: 40%;
 }
 .services-content {
   display: grid;
